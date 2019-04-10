@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+<xml xmlns:o="urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef="../Index1.html"/>
+ <o:File HRef="themedata.thmx"/>
+ <o:File HRef="colorschememapping.xml"/>
+ <o:File HRef="filelist.xml"/>
+=======
+<xml xmlns:o="urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef="../Index1.html"/>
+ <o:File HRef="themedata.thmx"/>
+ <o:File HRef="colorschememapping.xml"/>
+ <o:File HRef="filelist.xml"/>
+>>>>>>> 6825834bd9c12e26576eeb02fbed97cbb40cdc48
+</xml>
