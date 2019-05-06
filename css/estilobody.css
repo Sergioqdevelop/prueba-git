@@ -29,25 +29,18 @@ footer{
 	font-family: "angsana_newregular", normal;
 	background: #F0B429;
 	text-align: center;
-<<<<<<< HEAD
-	font-size: 14px;
-=======
 	font-size: 25px;
->>>>>>> 6825834bd9c12e26576eeb02fbed97cbb40cdc48
 	color: #fff;
+	background: #202020;
 }
 section#contenedor{
 	margin: 10px auto;
-	max-width: 1000px;
+	max-width: 1100px;
 	padding: 0;
 	text-align: center;
 	font-size: 20px;
 }
-<<<<<<< HEAD
-section#principal, aside{
-=======
 section#principal {
->>>>>>> 6825834bd9c12e26576eeb02fbed97cbb40cdc48
 	background: #96F1F3;
 	border-radius: 8px;
 	display: inline-block;
@@ -58,6 +51,9 @@ section#principal {
 	width: 69%;
 }
 article	{
+	font-family: "angsana_newregular", normal;
+	text-align: justify;
+	font-size: 25px;
 	background: #DBF9F9;
 	border-radius: 8px;
 	min-width: 140px;
@@ -65,9 +61,6 @@ article	{
 }
 aside {
 	width: 30%
-<<<<<<< HEAD
-}
-=======
 	background:#ffffff;
 	border-radius: 8px;
 	display: inline-block;
@@ -77,7 +70,7 @@ aside {
 }
 section#contenedor2{
 	margin: 10px auto;
-	max-width: 1000px;
+	max-width: 1100px;
 	padding: 0;
 	text-align: center;
 	font-size: 20px;
@@ -92,5 +85,7 @@ section#secundario {
 	vertical-align: top;
 	width: 69%;
 }
+p {
+	margin-top: 8px;
+}
 
->>>>>>> 6825834bd9c12e26576eeb02fbed97cbb40cdc48
